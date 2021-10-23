@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @ECasio
 - 👀 I’m interested in Java, JS, Python
-- 🌱 I’m currently learning Olingo and Spring-Boot
