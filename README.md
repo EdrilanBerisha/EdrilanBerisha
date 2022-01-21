@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @ECasio
-- 👀 I’m interested in Java, JS, Python
-
 Check out my blog:
 
 Building an OData Service with a Spring Java Application using Olingo – Part I
