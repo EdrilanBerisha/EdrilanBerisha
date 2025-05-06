@@ -8,4 +8,4 @@ Check out my blogs:
 - [Keyboard Shortcuts for Fiori Elements Applications](https://blogs.sap.com/2020/02/16/keyboard-shortcuts-for-power-user-in-fiori-elements-applications/)
 - [How to Copy Bank Statement Data from Excel to SAP S/4HANA using the Manage Bank Statement App](https://community.sap.com/t5/financial-management-blogs-by-sap/how-to-copy-bank-statement-data-from-excel-to-sap-s-4hana-using-the-manage/ba-p/13614570)
 - [Future of Electronic Bank Statement Processing in SAP S/4HANA Cloud - Release of 4X8](https://community.sap.com/t5/enterprise-resource-planning-blogs-by-sap/future-of-electronic-bank-statement-processing-in-sap-s-4hana-cloud/ba-p/13705172)
-- [Free Browser Extension for SAP S/4HANA for Increased Productivity and Better User Experience](https://community.sap.com/t5/technology-blogs-by-sap/free-browser-extension-for-sap-s-4hana-for-increased-productivity-and/ba-p/13801414)
+- [Can a Free Chrome Extension Transform Your SAP S/4HANA Experience?](https://community.sap.com/t5/technology-blog-posts-by-sap/can-a-free-chrome-extension-transform-your-sap-s-4hana-experience/ba-p/13801414)
