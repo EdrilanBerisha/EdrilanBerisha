@@ -9,3 +9,4 @@ Check out my blogs:
 - [How to Copy Bank Statement Data from Excel to SAP S/4HANA using the Manage Bank Statement App](https://community.sap.com/t5/financial-management-blogs-by-sap/how-to-copy-bank-statement-data-from-excel-to-sap-s-4hana-using-the-manage/ba-p/13614570)
 - [Future of Electronic Bank Statement Processing in SAP S/4HANA Cloud - Release of 4X8](https://community.sap.com/t5/enterprise-resource-planning-blogs-by-sap/future-of-electronic-bank-statement-processing-in-sap-s-4hana-cloud/ba-p/13705172)
 - [Can a Free Chrome Extension Transform Your SAP S/4HANA Experience?](https://community.sap.com/t5/technology-blog-posts-by-sap/can-a-free-chrome-extension-transform-your-sap-s-4hana-experience/ba-p/13801414)
+- [SAP Cloud ERP Launchpad Extension v2.2: Fiori App Groups & Multi-Language Support Are Here](https://community.sap.com/t5/technology-blog-posts-by-sap/sap-cloud-erp-launchpad-extension-v2-2-fiori-app-groups-amp-multi-language/ba-p/14349335)
