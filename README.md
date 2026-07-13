@@ -10,3 +10,4 @@ Check out my blogs:
 - [Future of Electronic Bank Statement Processing in SAP S/4HANA Cloud - Release of 4X8](https://community.sap.com/t5/enterprise-resource-planning-blogs-by-sap/future-of-electronic-bank-statement-processing-in-sap-s-4hana-cloud/ba-p/13705172)
 - [Can a Free Chrome Extension Transform Your SAP Cloud ERP Experience?](https://community.sap.com/t5/technology-blog-posts-by-sap/can-a-free-chrome-extension-transform-your-sap-cloud-erp-experience/ba-p/13801414)
 - [SAP Cloud ERP Launchpad Extension v2.2: Fiori App Groups & Multi-Language Support Are Here](https://community.sap.com/t5/technology-blog-posts-by-sap/sap-cloud-erp-launchpad-extension-v2-2-fiori-app-groups-amp-multi-language/ba-p/14349335)
+- [SAP Cloud ERP Launchpad Extension v3.2 – Dark Mode, Auto-Login & More](https://community.sap.com/t5/technology-blog-posts-by-sap/sap-cloud-erp-launchpad-extension-v3-2-dark-mode-auto-login-amp-more/ba-p/14428956)
